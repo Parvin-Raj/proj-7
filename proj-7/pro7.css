@@ -1,0 +1,53 @@
+body{
+    background-color: black;
+}
+h1{
+    color: cadetblue;
+}
+
+.f1{
+    color:springgreen;
+    padding: 20px;
+}
+.f1 label{
+    display: block;
+    padding-bottom: 10px;
+}
+.f1 input[type="text"]{
+    padding: 10px;
+    width:70%;
+}
+
+.f1 textarea{
+    padding: 10px;
+    width: 70%;
+}
+.f13 select{
+
+    padding: 10px;
+    width:71.7%;
+    
+}
+.button{
+    background-color: darkgreen;
+    color: white;
+    padding: 10px;
+    border: none;
+
+}
+.button:hover{
+    background-color: white;
+    color: #0D6D79;
+}
+.f11{
+    padding-bottom: 17px;
+}
+.f12{
+    padding-bottom: 17px;
+}
+.f13{
+    padding-bottom: 17px;
+}
+.f14{
+    padding-bottom: 17px;
+}
